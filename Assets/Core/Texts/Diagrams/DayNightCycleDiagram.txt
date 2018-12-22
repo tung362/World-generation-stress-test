@@ -1,0 +1,8 @@
+|--|--|--|--| A = afternoon, E = evening, n = night, M = morning
+A  E  N  M  A
+
+|--|--|--|--| B = bright, D = dim
+B     D  
+
+|--|--|--|--|
+0 25 50 75 100

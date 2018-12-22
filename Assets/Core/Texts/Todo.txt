@@ -1,0 +1,45 @@
+------------------
+block placement is dependent on the mouse ray hit's position
+World Generation
+Generation Order:
+terrain -> Structures -> Trees - > Plants
+build a mesh combine that takes a couple frames to finish (no lag chunks?)
+generated tile map with connected land mass
+
+noise mask for each side (left, right, up, down) instead of just square graident
+add different color blocks for grass and dirt
+Investigate why world gen missing 1 x and z
+------------------
+
+Create art assets
+-Unit
+-Weapon
+-Structure
+
+Create movement for units
+
+Create jobs for units
+-Mining
+-Chopping
+-Combat
+-Haul
+
+Notes:
+-Object's collision should be defined by script by the dimension ie: 2x3, 1x1 (for modding purposes)
+
+Possible grass wave Transition methods:
+-only set new xy if higher
+
+
+Storage:
+-Different types of wood cannot stack with each other
+
+World Map:
+Cannot settling in a adjacent town
+
+Nav mesh baking:
+Nav mesh surface
+Agent Radius = block size / 2 / 2
+Agent Height = block size + 2
+Step Height = block size
+Min Region Area = 0

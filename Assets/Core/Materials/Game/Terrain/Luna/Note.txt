@@ -1,0 +1,3 @@
+Make map emission color white
+Make glow map all black and emission white
+Metal = 0.5

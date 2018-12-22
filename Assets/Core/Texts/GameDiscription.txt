@@ -1,0 +1,93 @@
+Company: Hammer of Tungsten
+Name: The Gloom Before Dawn
+
+Block base resource gathering game where you try to survive each night's 
+
+Story:
+Advance ancient machines
+
+Mechanics:
+-Researching
+-Building/Decorating
+-Trading
+-Gathering
+-Combat
+-Airship
+
+Layers:
+6 layer system
+-Water level (1 Block)
+-Ground level (1 Block)
+
+Build System:
+Mining takes out 2 layers
+Building walls takes up 2 layers
+Terrain blocks can be rebuilt
+
+Airship system:
+-Must be on ground layer
+-Realtime baked navmesh
+-Enemy assault on empty map
+-Enemy base
+
+Resources:
+-Wood
+-Mineral
+-Coins
+
+Tech Tree:
+-Default
+-Advance Ancient Tech (From killing ruin boss)
+
+Enemy spawn:
+From edge of map (Flying mobs, enemy faction air ships, Air boss)
+Fall from the air (mobs, enemy faction, Boss)
+
+Trading:
+-Research making air ships
+-Trade with players or npc factions
+
+World gen:
+Floating island blocks
+Garenteed big island at start
+Garenteed island with ruins
+Biomes
+Foilage can grow when sky is visible (raycast down)
+
+Weather:
+-Clear (Fire flies)
+-Rain (Makes things shiny) (Fog)
+-Foggy (Fog)
+
+Terrain:
+Trees
+Plants
+Water Decorations (Corals, Spikes)
+Dirt
+Dirt Topless
+Grass
+
+Buildables:
+-Terrain
+Terrain block (Default)
+-Crafting
+Research station (Default)
+Weapon station (Default)
+Communication station (Default)
+-Decorations
+Torch (Default)(Placeable on walls)(Refuel)
+Table (Default)
+Candle (Default)(Placeable on table or ground)
+Crate (Default)
+-Structure
+Wood Wall (Default)
+Stone Wall (Default)
+Cobbled Floor (Default)
+
+Ruins:
+Broken pillar
+Broken wall
+
+Boss:
+
+Enemies:
